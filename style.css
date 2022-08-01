@@ -168,7 +168,7 @@ a {
   flex-direction: column;
   text-align: start;
   justify-content: space-evenly;
-  padding: 70px;
+  padding: 10%;
   line-height: 1.5;
 }
 .grid-text h1 {

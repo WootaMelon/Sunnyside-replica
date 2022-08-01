@@ -452,4 +452,7 @@ a {
   .hamburger {
     display: block;
   }
+  p {
+    font-size: 12px;
+  }
 }
